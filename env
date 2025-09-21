@@ -1,14 +1,11 @@
 # API Keys
-GEMINI_API_KEY=AIzaSyCrkOR82ajDsH7dxFQB4FqfJLmvXrOLSj4    
-GOOGLE_API_KEY=AIzaSyBNbJtL4AodyDQWMXUOUNjGSh9BKDIh9-I
-SEARCH_ENGINE_ID=20afdf091cfb1447c
+GEMINI_API_KEY=AIzaSyBkeE4M1WLb8d-XGl4hSySGr4YwEX2JRtc    
+GOOGLE_API_KEY=AIzaSyDNEbz5ciDN8ME_TMPELTd-NOIN_BedfgM
+SEARCH_ENGINE_ID=944fb786240344303
 
 
-DB_HOST=trolley.proxy.rlwy.net
-DB_PORT=59981
+DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=uUmWulBOflSyDSVBMjPzbIhvAhVpScrT
-DB_NAME=login_id
+DB_PASSWORD=root
+DB_NAME=login
 
-# Optional full connection string
-DATABASE_URL=mysql://root:uUmWulBOflSyDSVBMjPzbIhvAhVpScrT@trolley.proxy.rlwy.net:59981/login_id
