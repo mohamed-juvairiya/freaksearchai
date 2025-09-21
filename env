@@ -1,12 +1,14 @@
-# .env file
 # API Keys
 GEMINI_API_KEY=AIzaSyCrkOR82ajDsH7dxFQB4FqfJLmvXrOLSj4    
 GOOGLE_API_KEY=AIzaSyBNbJtL4AodyDQWMXUOUNjGSh9BKDIh9-I
 SEARCH_ENGINE_ID=20afdf091cfb1447c
 
 
-# Database Credentials
-DB_HOST= localhost #10.120.151.2
-DB_USER=root # Or your specific database user
-DB_PASSWORD=root
+DB_HOST=trolley.proxy.rlwy.net
+DB_PORT=59981
+DB_USER=root
+DB_PASSWORD=uUmWulBOflSyDSVBMjPzbIhvAhVpScrT
 DB_NAME=login_id
+
+# Optional full connection string
+DATABASE_URL=mysql://root:uUmWulBOflSyDSVBMjPzbIhvAhVpScrT@trolley.proxy.rlwy.net:59981/login_id
